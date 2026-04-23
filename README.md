@@ -76,6 +76,7 @@ A grid-based simulation demonstrating iterative updates and emergent behavior.
 
 ![Game of Life Demo](game_of_life.gif)
 
+These demos are designed to make algorithm execution visually observable rather than abstract.
 ---
 
 ## ⚙️ Features
