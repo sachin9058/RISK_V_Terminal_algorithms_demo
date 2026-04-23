@@ -7,6 +7,14 @@ This project contains two animated Bash-based simulations designed to demonstrat
 
 The goal is to provide minimal, dependency-free visualizations that make algorithm behavior easy to understand.
 
+## 🎯 Objective
+
+This project demonstrates two core computational paradigms:
+- Recursion (Tower of Hanoi)
+- Iteration (Conway’s Game of Life)
+
+using terminal-based visual simulations in Bash.
+
 ---
 
 ## 🧠 1. Tower of Hanoi (Recursion)
